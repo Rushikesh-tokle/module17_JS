@@ -31,3 +31,16 @@ console.log(str.replace("World","RUSHI"));
 
 //repeat
 console.log(str.repeat(10));
+
+//Assignmnet
+let message="help!";
+console.log(message.trim().toUpperCase());
+
+
+//2
+let nam="ApnaCollege";
+console.log(nam.slice(4,9));
+console.log(nam.indexOf("na"));
+console.log(nam.replace("Apna","Our"));
+console.log(nam.slice(4).replaceAll("l","t"));
+
